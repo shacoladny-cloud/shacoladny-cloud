@@ -19,11 +19,10 @@
   </tr>
   <tr>
     <td colspan="2" align="center" valign="middle">
-      <a href="mailto:shacoladny.cloud@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+      <a href="mailto:shacoladny@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
       &nbsp;
       <a href="https://github.com/shacoladny-cloud"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
       &nbsp;
-      <a href="https://modrinth.com/user/shacoladny-cloud"><img src="https://img.shields.io/badge/Modrinth-000000?style=for-the-badge&logo=modrinth&logoColor=white"></a>
     </td>
   </tr>
   <tr>
